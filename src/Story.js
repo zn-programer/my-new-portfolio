@@ -77,7 +77,7 @@ const AboutMe = () => {
               }}
             >
               <Image 
-                src="/prog.jpeg" 
+                src="/prog.jpg" 
                 className="w-100 h-100 object-fit-cover"
               />
             </motion.div>
