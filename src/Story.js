@@ -53,7 +53,7 @@ const AboutMe = () => {
               }}
             >
               <Image 
-                src="/oil.jpg" 
+                src="/oil.webp" 
                 className="w-100 h-100 object-fit-cover"
                 style={{ filter: 'grayscale(30%)' }}
               />
@@ -77,7 +77,7 @@ const AboutMe = () => {
               }}
             >
               <Image 
-                src="/prog.jpg" 
+                src="/prog.webp" 
                 className="w-100 h-100 object-fit-cover"
               />
             </motion.div>

@@ -36,27 +36,27 @@ const ZaidPortfolio = () => {
     {
       title: "منيو الكتروني مع نظام ادارة لمقهى و مطعم اربيل",
       description: " نظام ويب متكامل مع قائمة QR Code تفاعلية.",
-      img: "/restaurant.jpg",
+      img: "/restaurant.webp",
       skills: ["react.js", "supabase"],
     },
     {
       title: "متجر الكتروني لمكتبة الكرم",
       description: "ويبسايت متكامل مع امكانية القدرة على الشراء من داخل الموقع",
-      img: "/library.jpg",
+      img: "/library.webp",
       skills: ["react.js", "firebase"],
     },
     {
       title: "نظام الكتروني لاشتراكات المخابر",
       description:
         "نظام متكامل لادارة  اشتراكات المخابر يهدف الى تنظيم البيانات و تسريع العمل مع خزن محلي للبيانات",
-      img: "/mkh.jpg",
+      img: "/mkh.webp",
       skills: ["react.js", "node js", "mongoodb", "electron.js"],
     },
     {
       title: "نظام حجز الكتروني لعيادة طبية",
       description:
         "نظام يهدف الى تسهيل عملية ادارة المواعيد بشكل الكتروني منظم",
-      img: "/midcal.jpg",
+      img: "/midcal.webp",
       skills: ["react.js", "firebase"],
     },
   ];
@@ -238,7 +238,7 @@ const ZaidPortfolio = () => {
                 }}
               />
               <img
-                src='/me.jpg'
+                src='/me.webp'
                 className='img-fluid rounded-4 position-relative'
                 style={{
                   width: "350px",
