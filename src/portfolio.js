@@ -247,6 +247,7 @@ const ZaidPortfolio = () => {
                   border: `1px solid ${theme.border}`,
                 }}
                 alt='Zaid'
+                loading="eager"
               />
             </motion.div>
           </Col>
